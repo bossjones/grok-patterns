@@ -4,7 +4,7 @@ GEM
     cabin (0.6.1)
     jls-grok (0.11.0)
       cabin (>= 0.6.0)
-    rake (10.3.2)
+    rake (12.3.3)
 
 PLATFORMS
   ruby
